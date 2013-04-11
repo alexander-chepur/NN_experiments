@@ -137,7 +137,7 @@ Theta3_grad = Delta3./m + lambda/m*Theta3_cor;	%	вычисление градиента Theta3_gra
 % Use gradient descent or advansed optimization methd with backpropagation to try to minimize J(Theta) as a function of parameters Theta
 
 
-
+% test
 
 
 
